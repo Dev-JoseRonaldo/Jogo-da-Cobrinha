@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 240, 240);
+}
+.titulo{
+    padding-bottom: 50px;
+    color: rgb(24, 77, 24);
+    font-size: 48px;
+    text-transform: uppercase;
+}
